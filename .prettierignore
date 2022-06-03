@@ -1,0 +1,4 @@
+.cache
+coverage
+build
+node_modules
